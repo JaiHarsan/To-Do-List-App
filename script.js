@@ -15,7 +15,7 @@ function add(){
     }
 
     inputbox.value = "";
-    
+    savaData();
 }
 
 listcontainer.addEventListener("click",function(e){
