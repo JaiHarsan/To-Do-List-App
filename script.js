@@ -15,7 +15,7 @@ function add(){
     }
 
     inputbox.value = "";
-    saveData();
+    
 }
 
 listcontainer.addEventListener("click",function(e){
