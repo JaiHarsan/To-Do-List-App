@@ -14,8 +14,7 @@ function add(){
         li.append(span)
     }
 
-    inputbox.value = "";
-    savaData();
+    
 }
 
 listcontainer.addEventListener("click",function(e){
