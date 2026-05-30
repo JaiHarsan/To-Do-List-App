@@ -1,5 +1,5 @@
 const inputbox = document.getElementById("inputbox");
-const listcontainer = document.getElementById("listcontainer");
+
 
 function add(){
     if(inputbox.value === ''){
